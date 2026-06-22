@@ -1,4 +1,4 @@
-Thank you for your review  the live link below. 
+Thank you for your review  the live link . 
 https://drive.google.com/file/d/1LGQrRaU7l8Gpxr8dfn_s0clKhwjI5YWT/view
 
 The objective of this project is to develop a Healthcare Revenue Monitoring Application that demonstrates example dashboards used to identify, investigate,
