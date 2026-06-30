@@ -1,4 +1,4 @@
-Thank you for your review  the live link . 
+Thank you for your review the project presentation live link . 
 
 https://drive.google.com/file/d/1LGQrRaU7l8Gpxr8dfn_s0clKhwjI5YWT/view
 
